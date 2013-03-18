@@ -20,6 +20,10 @@
         "About": {
             "desc":"Introduction page",
             "repo":"todo"
+        },
+        "RepoTest": {
+            "desc":"This is a cURL repo download test",
+            "repo":"todo"
         }
     }
 }
