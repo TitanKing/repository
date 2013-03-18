@@ -24,6 +24,10 @@
         "RepoTest": {
             "desc":"This is a cURL repo download test",
             "repo":"todo"
+        },
+        "RepoTest2": {
+            "desc":"This is a cURL repo download test2",
+            "repo":"todo"
         }
     }
 }
