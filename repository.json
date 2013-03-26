@@ -3,7 +3,7 @@
     "plugins": {
         "NewPlugin": {
             "desc":"Empty plugin to get you started",
-            "repo":"https://github.com/PHPDevShell/NewPlugin.git"
+            "repo":"https://github.com/PHPDevShell/NewPlugin"
         },
         "Mustache": {
             "desc":"Light and fast template Engine",
