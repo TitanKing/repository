@@ -4,6 +4,10 @@
         "FineSamle1": {
             "desc":"Just a repo test plugin",
             "repo":"https://github.com/TitanKing/FineSamle1"
+        },
+        "FineSamle2": {
+            "desc":"Just another repo test plugin",
+            "repo":"https://github.com/PHPDevShell/FineSamle2"
         }
     }
 }
