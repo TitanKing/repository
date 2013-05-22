@@ -8,6 +8,10 @@
         "FineSamle2": {
             "desc":"Just another repo test plugin",
             "repo":"https://github.com/PHPDevShell/FineSamle2"
+        },
+        "NewPlugin2": {
+            "desc":"Another plugin test",
+            "repo":"https://github.com/TitanKing/NewPlugin2"
         }
     }
 }
